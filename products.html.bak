@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="products.css">
+		<title>ForgedWheels</title>
+	</head>
+	<body>
+		<div class="topnav">
+			<a href="file:///C:/xampp/htdocos/Atestat/home.html" class="hover">Home</a>
+			<a class="products" href="file:///C:/xampp/htdocos/Atestat/products.html" class="hover">Products</a>
+			<a href="file:///C://xampp/htdocos/Atestat/contact.html" class="hover">Contact</a>
+			<a href="file:///C:/xampp/htdocos/Atestat/about.html" class="hover">About</a>
+			<img src="file:///C:/xampp/htdocos/Atestat/images/logo.png" width="70" height="70" class="logo">
+		</div>
+	</body>
+</html>
